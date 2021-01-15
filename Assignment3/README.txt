@@ -1,0 +1,4 @@
+Throughout coding this proved to show whether I completely understand how to
+fork() and manipulate certain processes to do the assigned tasks. At first, 
+I encountered a problem with displaying the parent pid since each time I called for getppid() the program would display 1. I got through that problem by 
+already calling for the pid of the parent process. Also, the err_sys required more research since for a moment I got continuous errors, however, when I found what file to include then the problem resolved itself.  Another problem I encountered was a algorithm problem for the Fibonacci sequence in which I believe that I over complicated the algorithm to replace the variables in which to calculate the next number in the sequence. Overall, I found this assignment simple but also required time to resolve the simple errors.
